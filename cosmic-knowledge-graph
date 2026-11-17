@@ -1,0 +1,12 @@
+cosmic-knowledge-graph/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── data.js
+│   └── app.js
+│
+└── README.md
